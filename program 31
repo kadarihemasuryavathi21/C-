@@ -1,0 +1,287 @@
+Which of the header file is used to implement algorithms provided by C++ STL?
+
+<Algorithm>
+<algorithm>
+<header>
+<algos>
+Q2 of 3
+
+What will be the output of the following C++ code?
+
+  #include <iostream>
+    using namespace std;
+    template<typename type>
+    type Min(type num1, type num2)
+    {
+        return num1 < num2 ? num1:num2;
+    }
+    int main()
+    {
+        int x;
+        x = Min(100, 200);
+        cout << x << endl;
+        return 0;
+    }
+
+100
+200
+300
+100 200
+Q3 of 3
+
+Which of the header file is used to implement algorithms provided by C++ STL?
+
+Static arrays
+Dynamic arrays
+Stack
+Queue
+Zoiee Tutor
+Contents
+Details
+thumbnail
+Programming Using C++
+Course | Beginner
+24h 18m
+Introduction to C++
+17m 6s
+Environmental Setup For CPP
+29m 4s
+Starting with C++ Programming
+1h 39m
+Comment Lines
+1m 42s
+Constants
+3m 35s
+Variables
+5m 8s
+Scope of Variables
+3m 54s
+Data types
+9m 24s
+Keywords
+53s
+Operators
+10m 3s
+First Look
+4m 59s
+Input And Output Operations
+3m 51s
+Namespace
+6m 8s
+Quiz - Starting with C++
+20m
+Assignment - Input and Output
+15m
+Assignment - Operators
+15m
+Control Structures
+1h 38m
+Decision Making Statements
+7m 11s
+Switch Case
+3m 37s
+Assignment - Switch Case
+15m
+Control Flow Statements
+12m 44s
+Quiz - Control Structures
+15m
+Assignment - Control Flow Statements
+15m
+Assignment - Loops
+30m
+Derived Datatypes
+1h 18m
+Array in C++
+8m 5s
+Tryout - Array in C++
+30m
+Quiz - Array in C++
+10m
+Assignment - Array in C++
+30m
+Pointers
+1h 34m
+Pointers
+7m 26s
+Reference Variable
+8m 4s
+Pointers with Arrays
+3m 34s
+Quiz - Pointers
+15m
+Assignment - Pointers and Reference Variable
+30m
+Assignment - Pointers with Arrays
+30m
+Functions
+2h
+Functions in C++
+6m 5s
+Passing Arguments to Functions in c++
+3m 3s
+Call by value in C++
+1m 44s
+Call by references in C++
+1m 44s
+Function with Array in C++
+1m 17s
+Function with Pointers in C++
+1m 33s
+Function Overloading C++
+1m 28s
+Recursive Function in C++
+1m 31s
+Inline function in C++
+2m 6s
+Assignment - Functions in c++
+30m
+Assignment - Function with array and pointers in C++
+30m
+Assignment - Function overloading in C++
+30m
+Quiz - Functions in C++
+10m
+String Manipulation
+49m 27s
+String Manipulation in C++
+9m 27s
+Assignment - String in C++
+30m
+Quiz - String Manipulation in C++
+10m
+Memory Allocation
+53m 23s
+Memory Allocation
+13m 23s
+Try Out - Memory Management
+20m
+Quiz - Memory Allocation
+20m
+User defined Datatype
+1h 16m
+Why Structures in C++
+5m 20s
+Structure vs Array in C++
+1m 13s
+Structure and Functions in C++
+1m 15s
+Pointers to Structures in C++
+1m 39s
+Enumeration in C++
+2m 1s
+Assignment - Structure using Array in C++
+30m
+Assignment - Structure in C++
+30m
+Quiz - User defined Datatype in C++
+5m
+Different Programming Techniques
+10m 41s
+Different Programming Techniques in C++
+5m 41s
+Quiz - Different Programming Techniques in C++
+5m
+Object Oriented Programming
+24m 55s
+Why Object Oriented Programming?
+4m 20s
+Object Oriented Concepts
+6m 23s
+Access Specifiers
+4m 12s
+Quiz - Understanding OOP
+10m
+Class And Objects
+2h 11m
+Class and Objects
+6m 9s
+Constructors
+11m 34s
+Destructors
+3m 56s
+Quiz - Constructors And Destructors
+30m
+Assignment - Class and Objects
+20m
+Assignment - Class and Objects with Namespace
+30m
+Assignment - Constructors and Destructors
+30m
+Static And Function Keyword
+1h 24m
+Static Variable And Static Method
+5m 24s
+Friend Function And Function Class
+4m 32s
+Quiz - Static & Function Function
+15m
+Assignment - Static
+30m
+Assignment - Friend
+30m
+Inheritance
+50m 13s
+Inheritance in C++
+5m 50s
+Inheritance with access specifiers in C++
+2m 12s
+Types of Inheritance in C++
+4m 59s
+Constructors & Destructors with Inheritance in C++
+2m 12s
+Quiz - Inheritance in C++
+5m
+Assignment -Inheritance in C++
+30m
+Polymorphism
+1h 48m
+Polymorphism
+1m 10s
+Compile Time Polymorphism
+6m 32s
+Assignment - Operator Overloading
+30m
+Assignment - Method Overloading
+20m
+Run-time Polymorphism
+6m 9s
+Assignment - Virtual Function
+30m
+Quiz - Polymorphism
+15m
+Exception Handling
+41m 40s
+Exceptions in C++
+6m 40s
+Quiz - Exception Handling in C++
+5m
+Assignment -Exceptions in C++
+30m
+File Handling
+2h 22m
+Basic File Operations and Special Functions
+12m 21s
+Quiz - File Handling
+10m
+Assignment - File Handling
+2h
+Standard Template Libraries
+1h 17m
+Template
+7m 52s
+Assignment - Function templates in C++
+30m
+Standard Template Libraries
+4m 12s
+Assignment - STL in C++
+30m
+Quiz -STL
+5m
+Summary
+30m
+Revisit - C++
+30m
+Assessment
+40m
+Powered by Infosys Wingspan
